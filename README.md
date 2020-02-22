@@ -7,3 +7,12 @@
 
 
 如果要直接使用的話可以在google Colab上執行(https://colab.research.google.com/drive/1z7cN8BpboPr3P_BashwLmAIDjkYmSwHJ) ，按下執行紐(如下圖)即可。
+![image]()
+
+
+
+
+
+
+
+
